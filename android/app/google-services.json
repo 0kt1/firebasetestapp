@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863476607120",
+    "project_id": "fir-push-noti-d2e44",
+    "storage_bucket": "fir-push-noti-d2e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863476607120:android:45897868f9f50f58715015",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_noti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCghi3J8qLuqLo9D9NsO2MQhcn0t_tKVpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
